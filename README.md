@@ -1,1 +1,3 @@
-# AlignmentScores
+# Alignment Scores: Robust Metrics for Multiview Pose Accuracy Evaluation
+
+The code will be uploaded soon...
