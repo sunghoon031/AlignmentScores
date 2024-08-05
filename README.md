@@ -2,4 +2,6 @@
 [**Paper**](https://arxiv.org/abs/2407.20391)
 
 
-The code will be uploaded soon...
+### Quick Start:
+
+Run `demo.m`.
